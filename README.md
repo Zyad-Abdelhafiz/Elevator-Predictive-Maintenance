@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/d690e851-3df1-4965-8af6-1b78473c7cef" alt="Elevator Predictive Maintenance" width="50%"/>
 </div>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Elevator Predictive Maintenance
 **Haifa Aljundi | Zyad Abdelhafiz**  
